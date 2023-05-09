@@ -4,4 +4,4 @@
 k = 0
 for p in range(ord('z'), ord('a') - 1, -1):
     print("{}".format(chr(p - k)), end="")
-    p = 32 if p == 0 else 0
+    k = 32 if k == 0 else 0
