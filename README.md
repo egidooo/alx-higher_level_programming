@@ -1,1 +1,1 @@
-this repository is for my codes of my high level programing, it will be containing directories with its specific files that contain codes of the projects i am currently working on day by day untill the end of this high level programinf
+this repo is for my high level programing, i will be pushing my daily projects i am working on. this projects will be in their respective directories based on what i am studing
